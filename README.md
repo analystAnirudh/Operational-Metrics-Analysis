@@ -1,4 +1,4 @@
-# 📊 Operational Analytics - Using SQL  
+# 📊 Operational-Metrics-Analytics - Using SQL  
 
 ## 📌 Project Overview  
 Operational Analytics involves analyzing a company's end-to-end operations to identify areas for improvement. As a **Lead Data Analyst**, your goal is to derive meaningful insights from data, investigate metric spikes, and support decision-making for various teams like operations, support, and marketing.  
